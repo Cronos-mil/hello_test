@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main(){
-	printf("my secoond c program.");
+	printf("my fist try c program.");
 }
